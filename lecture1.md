@@ -70,7 +70,7 @@ Introduction
 - To what do I compare?
 - What are the conclusions?
 - Is this convincing?
-- Does this corroborate with previous studies?
+- Does this corroborate with previous studies or intuition?
 
 ---
 
@@ -118,7 +118,7 @@ class: middle, center
     - Oral presentation
         - 10mn
         - Q&A
-        - Round-robin designated speaker
+        - Everyone must present at least once
     - Short report
         - 4 pages max
     - Feedback on technical progress and project management.
@@ -139,6 +139,8 @@ class: middle, center
 - 19/03: Review 4
 - 16/04: Review 5
 - 14/05: Final report and defenses
+
+Reports to be sent on the Friday before the review dates.
 
 Seminars will be announced later.
 
