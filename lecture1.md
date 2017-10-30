@@ -14,8 +14,16 @@ Introduction
 
 # Your superpower?
 
-- Answering *business* or *scientific questions* with **data**.
-- This process involves several steps:
+.center.width-50[![](figures/lec1/superman.png)]
+
+.center[Answering *business* or *scientific questions* with **data**.]
+
+
+---
+
+# Data science, in practice
+
+- In practice, this process involves **several steps**:
     - Understanding and formalizing the problem
     - Defining a model
     - Collecting, cleaning and storing data
@@ -23,7 +31,7 @@ Introduction
     - Analyzing the results
     - Storytelling and visualization
     - Iterate
-- In this project, we will ask you an (open) question and you will go through all these steps to form an answer.
+- In this project, we will ask you an *open* and *incompletely defined* question and you will go through all these steps to form an answer.
 
 ---
 
@@ -79,6 +87,7 @@ Introduction
 - How do I present my results?
 - How do I make interpretable visualizations?
 - How do I present my results to a non-technical audience?
+- How do I make my results and conclusions as simple as possible, but not simpler?
 
 ---
 
@@ -114,6 +123,7 @@ class: middle, center
 # Activities
 
 - Teams of *3 students*.
+    -
 - Monthly **project reviews** of the progress.
     - Oral presentation
         - 10mn
@@ -133,14 +143,17 @@ class: middle, center
 # Schedule
 
 - 30/10: Presentation of the project
-- 20/11: Review 1: Explain your objectives and roadmap
+- 20/11: Review 1
+    - Explain your objectives and roadmap
+    - Oral presentation
+    - Short report
 - 11/12: Review 2
 - 19/02: Review 3
 - 19/03: Review 4
 - 16/04: Review 5
 - 14/05: Final report and defenses
 
-Reports to be sent on the Friday before the review dates.
+Reports to be sent on the **Friday before the review dates**.
 
 Seminars will be announced later.
 

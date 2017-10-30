@@ -9,4 +9,4 @@ Instructors:
 
 ## Slides
 
-- [Lecture 1: Introduction](https://glouppe.github.io/proj0016-big-data-project/?p=lecture1.md)
+- [Lecture 1: Introduction](https://glouppe.github.io/proj0016-big-data-project/?p=lecture1.md), [PDF](https://glouppe.github.io/proj0016-big-data-project/pdf/lec1.pdf)
