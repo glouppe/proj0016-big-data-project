@@ -11,7 +11,7 @@ Instructors:
 
 Tentative schedule (subject to changes!)
 
-- 30/10/2017, 2pm: [Lecture 1: Introduction](https://glouppe.github.io/proj0016-big-data-project/?p=lecture1.md), [PDF](https://glouppe.github.io/proj0016-big-data-project/pdf/lec1.pdf)
+- 30/10/2017, 2pm: [Introduction of the project](https://glouppe.github.io/proj0016-big-data-project/?p=lecture1.md), [PDF](https://glouppe.github.io/proj0016-big-data-project/pdf/lec1.pdf)
 - 20/11/2017, 2pm: Jacques Wieczorek (NRB): Big data experience sharing
 - 20/11/2017, 4pm: Review 1
 - 11/12/2017, 2pm: Review 2
