@@ -18,7 +18,7 @@ Tentative schedule (subject to changes!)
 - 19/02/2017: Michel Journée (IRM): Data Science in Weather Science
 - 19/02/2017: Review 3
 - 26/02/2017: Ashwin Ittoo (HEC ULiège): [Sentiment analysis](https://glouppe.github.io/proj0016-big-data-project/pdf/ittoo-sentiment-analysis.pdf)
-- 05/03/2017: Tim Head (Wild Tree Tech)
+- 12/03/2017: Tim Head (Wild Tree Tech)
 - 19/03/2017: Review 4
 - 09/04/2017: Wannes Rosius (Delhaize)
 - 16/04/2017: Review 5
