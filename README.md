@@ -20,7 +20,7 @@ Tentative schedule (subject to changes!)
 - 26/02/2017: Ashwin Ittoo (HEC ULiège): [Sentiment analysis](https://github.com/glouppe/proj0016-big-data-project/raw/master/pdf/ittoo-sentiment-analysis.pdf)
 - 12/03/2017: Tim Head (Wild Tree Tech)
 - 19/03/2017: Review 4
-- 09/04/2017: Wannes Rosius (Delhaize)
+- 16/04/2017: Wannes Rosius (Delhaize)
 - 16/04/2017: Review 5
 - 30/04/2017: Eamonn Maguire (Pictet)
 - 14/05/2017: Final defense
