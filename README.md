@@ -22,5 +22,5 @@ Tentative schedule (subject to changes!)
 - 19/03/2017: Review 4
 - 16/04/2017: Wannes Rosius (Delhaize)
 - 16/04/2017: Review 5
-- 30/04/2017: Eamonn Maguire (Pictet)
+- 30/04/2017: Eamonn Maguire (Pictet): Principles of Visualization ([Part 1](https://github.com/glouppe/proj0016-big-data-project/raw/master/pdf/maguire-pov-part1.pdf), [Part 2](https://github.com/glouppe/proj0016-big-data-project/raw/master/pdf/maguire-pov-part2.pdf))
 - 14/05/2017: Final defense
