@@ -310,9 +310,9 @@ Is global warming for real?
 
 ---
 
-class: middle, center
+class: middle, center, italic
 
-xxx
+Is the University an example to follow in terms of electricity consumption?
 
 ---
 
@@ -344,9 +344,7 @@ Feel free to contact any of us for help!
 
 Slides and other materials are available at [github.com/glouppe/proj0016-big-data-project](https://github.com/glouppe/proj0016-big-data-project).
 
-xxx image
-
-.center.width-80[![](figures/kickoff/slides.png)]
+.center.width-80[![](figures/kickoff/github.png)]
 
 ---
 
@@ -383,11 +381,11 @@ The project is complemented by seminars by local and external speakers.
 
 ---
 
-# Final defense
+# Final deliverables
 
-The final deliverables of your project consist in:
+The final deliverables of your project should consist in:
 - a final comprehensive report of your study
-- a (public) oral defense
+- reproducible scripts for the collection, analysis and visualization of your data
 
 ---
 
@@ -401,7 +399,7 @@ The final deliverables of your project consist in:
 - 25/02/2019 (9AM) Project review #4: Data collection #2
 - 25/03/2018 (9AM) Project review #5: Data analysis #2
 - 29/04/2018 (9AM) Project review #6: Further improvements.
-- 13/05/2018 (9AM) Project defense and final report
+- 13/05/2018 (9AM) Project public defense and final report
 
 Seminars will be announced later.
 
@@ -418,6 +416,8 @@ The evaluation will be based on:
 
 ---
 
-class: middle
 
-# Brainstorming
+class: end-slide, center
+count: false
+
+Let's get to work!
