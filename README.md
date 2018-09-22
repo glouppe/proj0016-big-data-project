@@ -12,6 +12,7 @@ Instructors:
 Tentative schedule (subject to changes!)
 
 - 24/09/2018 (2PM) [Kickoff](https://glouppe.github.io/proj0016-big-data-project/?p=kickoff.md) [[PDF](https://glouppe.github.io/proj0016-big-data-project/pdf/kickoff.pdf)]
+- 24/09/2018 (4PM) Seminar: Written communication, Patricia Tossings
 - 08/10/2018 Groups must be formed and the topic decided
 - 29/10/2018 (2PM) Project review #1
 - 26/11/2018 (2PM) Project review #2
