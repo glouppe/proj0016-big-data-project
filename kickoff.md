@@ -9,6 +9,16 @@ Profs. Gilles Louppe, Bertrand Cornélusse and Pierre Geurts
 
 ---
 
+# Today
+
+- What is data science?
+- Methodology to solve a data science problem
+- Topics for this year
+- Course organization
+- Evaluation
+
+---
+
 class: middle
 
 # The data science era
@@ -190,7 +200,13 @@ free and ubiquitous data."]
 
 ---
 
+class: middle
+
 # The data science pipeline
+
+---
+
+class: middle
 
 .center.width-80[![](figures/kickoff/ds-pipeline.png)]
 
@@ -329,7 +345,8 @@ This project is mentored by:
 - Prof. Bertrand Cornélusse ([bertrand.cornelusse@uliege.be](mailto:bertrand.cornelusse@uliege.be))
 - Prof. Pierre Geurts ([p.geurts@uliege.be](mailto:p.geurts@uliege.be))
 
-Feel free to contact any of us for help!
+Each group will be assigned a mentor.
+Feel free to contact your **mentor** for any question.
 
 <br>
 .center[
@@ -350,11 +367,12 @@ Slides and other materials are available at [github.com/glouppe/proj0016-big-dat
 
 # Groups
 
-The project is carried out in **groups of 3 students**.
+The project is carried out in *groups of 3 students*.
 
-The topic should be selected and the groups should be formed by October 8.
+The topic should be selected and the groups should be formed by **October 8**.
 - Notify us by email.
 - If you are alone, send us an email too!
+- Register your group on the submission platform.
 
 ---
 
@@ -367,7 +385,8 @@ We will meet on *every last Monday of the month* to review your progress.
     - Everyone must present at least once
 - Short report
     - 4 pages max
-    - To be submitted on the Friday before the review day
+    - To be submitted on the Thursday before the review day, on the submission platform.
+    - **Check deadlines for report submission**.
 
 The goal is to give you feedback on technical progress and project management.
 
@@ -392,6 +411,7 @@ The final deliverables of your project should consist in:
 # Agenda
 
 - 24/09/2018 (2PM) Kick-off
+- 24/09/2018 (4PM) Seminar: Written communication, Patricia Tossings
 - 08/10/2018 Groups must be formed and the topic decided
 - 29/10/2018 (2PM) Project review #1: Pre-analysis, literature review
 - 26/11/2018 (2PM) Project review #2: Data collection #1
@@ -405,6 +425,12 @@ Seminars will be announced later.
 
 ---
 
+class: middle
+
+# Evaluation
+
+---
+
 # Evaluation
 
 The evaluation will be based on:
@@ -412,10 +438,53 @@ The evaluation will be based on:
 - the quality of the final report (*15%*)
 - the quality of the final oral defense (*15%*)
 - the overall study (*40%*)
-    - the originality, methodology, clarity, reproducibility and technological choices of the solution will be mainly assessed.    
+    - the originality, methodology, clarity, reproducibility and technological choices of the solution will be mainly assessed.
+
+We will notify your score individually after each intermediate review stage.
 
 ---
 
+class: middle
+
+## Regularization
+
+- Absence of a group at a review: 0 to this review for the group.
+- Delay in submitting a report: -1% per day.
+- Absence of a group member at a review: individual 0 for the review.
+- Absence of a group member at a seminar: individual -5% on the total of the year.
+
+---
+
+class: middle
+
+## How to report
+
+- One of the outcomes of the project is to learn how to communicate / report orally and in written form.
+- You have to be on time so that we can provide feedback : reports on Thursday 23:59 before review. **Hard deadline!**
+- Create your own template and always use the same for the intermediate review stages.
+    - If you make incremental reports, make sure you highlight what is new.
+    - If not, introduce a status of your past reports at the beginning.
+- Use a strict methodology: follow the steps of slide 18.
+    - briefly report what you did for each step.
+    - provide approximate percentage of completion for each step.
+- Identify which group member is responsible for what.
+- For oral presentations, stick to the allocated time slot.
+- Use recommendations of seminars on communication skills
+
+---
+
+class: middle
+
+## How to work efficiently
+
+- Make small iterations first but try to go/project over all the steps.
+- Write what you do. It will help you being on time for your reports.
+- Share the work between group members and give precise responsibilities.
+- **Mandatory use of Github or alikes** and share with your mentor.
+- **Mandatory use of a Trello board** and share with your mentor.
+- If you want to use a cloud based service to store data, run computations, etc: fine, but please report pros and cons and what guided your choice.
+
+---
 
 class: end-slide, center
 count: false
