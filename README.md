@@ -12,9 +12,10 @@ Instructors:
 Tentative schedule (subject to changes!)
 
 - 24/09/2018 (2PM) [Kickoff](https://glouppe.github.io/proj0016-big-data-project/?p=kickoff.md) [[PDF](https://glouppe.github.io/proj0016-big-data-project/pdf/kickoff.pdf)]
-- 24/09/2018 (4PM) Seminar: Written communication, Patricia Tossings [[PDF](https://glouppe.github.io/proj0016-big-data-project/pdf/tossings-written-communication.pdf)]
+- 24/09/2018 (4PM, 2.93/B28) Seminar: Written communication, Patricia Tossings [[PDF](https://glouppe.github.io/proj0016-big-data-project/pdf/tossings-written-communication.pdf)]
 - 08/10/2018 Groups must be formed and the topic decided
-- 08/10/2018 (4PM) Seminar: Oral communication, Patricia Tossings [[PDF](https://glouppe.github.io/proj0016-big-data-project/pdf/tossings-oral-communication.pdf)]
+- 08/10/2018 (4PM, 2.93/B28) Seminar: Oral communication, Patricia Tossings [[PDF](https://glouppe.github.io/proj0016-big-data-project/pdf/tossings-oral-communication.pdf)]
+- 22/10/2018 (1:30PM, 2.93/B28) Seminar: Introduction to GDPR
 - 29/10/2018 (2PM) Project review #1
 - 26/11/2018 (2PM) Project review #2
 - 17/12/2018 (2PM) Project review #3
