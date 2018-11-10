@@ -18,6 +18,7 @@ Tentative schedule (subject to changes!)
 - 22/10/2018 (1:30PM, 2.93/B28) Seminar: Introduction to GDPR
 - 29/10/2018 (2PM, R75/B28) Project review #1
 - 26/11/2018 (2PM, R75/B28) Project review #2
+- 10/12/2018 (2PM, R75/B28) Seminar: Opinum: Digital Platform for Energy & Environmental actors, Loic Bar
 - 17/12/2018 (2PM, R75/B28) Project review #3
 - 11/02/2018 (10AM) Seminar: Meteorology and Climatology, Xavier Fettweis
 - 25/02/2019 (9AM) Project review #4
