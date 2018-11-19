@@ -20,7 +20,7 @@ Tentative schedule (subject to changes!)
 - 26/11/2018 (2PM, R75/B28) Project review #2
 - 10/12/2018 (2PM, R75/B28) Seminar: Opinum: Digital Platform for Energy & Environmental actors, Loic Bar
 - 17/12/2018 (2PM, R75/B28) Project review #3
-- 11/02/2018 (10AM) Seminar: Meteorology and Climatology, Xavier Fettweis
+- 04/02/2018 (10AM) Seminar: Meteorology and Climatology, Xavier Fettweis
 - 25/02/2019 (9AM) Project review #4
 - 18/03/2018 (10AM) Seminar: PEPITe, Philippe Mack
 - 25/03/2018 (9AM) Project review #5
