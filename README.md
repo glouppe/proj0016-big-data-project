@@ -24,6 +24,7 @@ Tentative schedule (subject to changes!)
 - 25/02/2019 (9AM) Project review #4
 - 18/03/2018 (10AM) Seminar: PEPITe, Philippe Mack
 - 25/03/2018 (9AM) Project review #5
+- 01/04/2018 (10:30 AM) Seminar: IT data management, Jean-Louis Binot
 - 29/04/2018 (9AM) Project review #6
 - 13/05/2018 (9AM) Project defense
 
