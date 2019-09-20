@@ -158,45 +158,38 @@ class: middle
 
 class: middle
 
-.center.width-80[![](figures/kickoff/ds-pipeline.png)]
+.center.width-90[![](figures/kickoff/cycle1.png)]
+
+.footnote[Image credits: [International Data Science in Schools Project](http://www.idssp.org/pages/datascience.html), 2018.]
 
 ???
 
-Make the connection with Hal Varian quoite.
-
----
-
-class: middle
-
 In practice, the data science process involves **several steps**:
 - Understanding and formalizing the problem
-- Defining a model
 - Collecting, cleaning and storing data
-- Choosing a technology
+- Defining a model and analyzing results
 - Analyzing the results
 - Storytelling and visualization
-- Iterate
+- (tranversal) Choosing a technology
 
 ---
 
 class: middle
 
-## Understanding and formalizing
+.center.width-90[![](figures/kickoff/cycle2.png)]
+
+.footnote[Image credits: [International Data Science in Schools Project](http://www.idssp.org/pages/datascience.html), 2018.]
+
+---
+
+class: middle
+
+## Understanding and formulating the problem
 
 - What is it that I really want to answer?
 - Why do I want an answer to this question?
 - Do I understand the problem?
-
----
-
-class: middle
-
-## Defining a model
-
-- How do I answer?
-- What are my assumptions?
-- What statistical model do I consider?
-- What algorithm shall I use?
+- What is the hypothesis that I want to evaluate?
 
 ---
 
@@ -204,9 +197,10 @@ class: middle
 
 ## Collecting, cleaning and storing data
 
-- What data do I need for fitting my model?
+- What data do I need?
 - How large this data should be?
 - Where do I collect this data?
+- Do I have to run an experiment to collect data?
 - Is data cleaning necessary?
 - How do I store the data?
 
@@ -214,24 +208,26 @@ class: middle
 
 class: middle
 
-## Choosing a technology
+## Exploring the data
 
-- What tools do I need?
-- What technology shall I use?
-- Is a laptop enough, or shall I use a large-scale distributed system?
-- How do I make my analysis reproducible?
+- How does the data look like?
+- What are summary statistics?
+- Does this look consistent?
 
 ---
 
 class: middle
 
-## Analyzing the results
+## Analyzing the data
 
+- What statistical models should I consider?
 - How do I analyze the results of the model?
 - How do I assess the significance of the results?
+- How do I validate my hypothesis?
 - To what do I compare?
 - What are the conclusions?
 - Is this convincing?
+- Am I confident about these results?
 - Does this corroborate with previous studies or intuition?
 
 ---
@@ -257,6 +253,17 @@ class: middle
 - Shall I go back and define a new model?
 - ... or collect new or more data?
 - ... or use other tools?
+
+---
+
+class: middle
+
+## Choosing a technology
+
+- What tools do I need?
+- What technology shall I use?
+- Is a laptop enough, or shall I use a large-scale distributed system?
+- How do I make my analysis reproducible?
 
 ---
 
