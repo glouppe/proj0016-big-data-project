@@ -35,15 +35,67 @@ Can you define big data or data science?
 
 class: middle
 
+.circle.center.width-40[![](figures/kickoff/schmidt.jpeg)]
+
+
+.italic["Every two days now we create as much information as we did from the dawn of civilization up until  2003, according to Schmidt. That’s something like five exabytes of data, he says.
+
+Let me repeat that: we create as much information in two days now as we did from the dawn of man through 2003.]
+
+.pull-right[Eric Schmidt, 2010.]
+
+---
+
+class: middle, center, black-slide
+
+.width-100[![](figures/kickoff/growth.png)]
+
+???
+
+- 1 zettabyte = 1 trillion gigabytes
+- 1 followed by 21 zeroes
+
+"75 billion fully-loaded 16 GB Apple iPads, which would fill the entire area of Wembley Stadium to the brim 41 times, the Mont Blanc Tunnel 84 times, CERN's Large Hadron Collider tunnel 151 times, Beijing National Stadium 15.5 times or the Taipei 101 Tower 23 times."
+
+"A full-length episode of FOX TV's hit series 24 running continuously for 125 million years."
+
+---
+
+class: middle, center
+
+.width-100[![](figures/kickoff/4v.jpg)]
+
+---
+
+class: middle
+
+
+.circle.center.width-40[![](figures/kickoff/halvarian.jpeg)]
+
+.italic["The ability to take **data** – to be able to
+*understand* it, to *process* it, to *extract
+value* from it, to *visualize* it, to
+*communicate* it's going to be a hugely
+important skill in the next decades, not
+only at the professional level but even at
+the educational level for elementary school
+kids, for high school kids, for college kids.
+Because now we really do have essentially
+free and ubiquitous data."]
+.pull-right[Hal Varian, Chief Economist, Google]
+
+
+---
+
+class: middle
+
 .italic["A data scientist is someone who knows more
 statistics than a computer scientist and more
 computer science than a statistician."]
 <br>
 .pull-right[Josh Blumenstock]
 
----
-
-class: middle
+<br><br><br>
 
 .italic["Data scientist = statistician + programmer + coach + storyteller + artist"]
 <br><br>
@@ -81,95 +133,20 @@ class: center, middle
 
 ---
 
-class: middle
+class: center, middle
 
-.circle.center.width-40[![](figures/kickoff/schmidt.jpeg)]
+.width-60[![](figures/kickoff/trump.png)]
 
-
-.italic["Every two days now we create as much information as we did from the dawn of civilization up until  2003, according to Schmidt. That’s something like five exabytes of data, he says.
-
-Let me repeat that: we create as much information in two days now as we did from the dawn of man through 2003.]
-
-.pull-right[Eric Schmidt, 2010.]
+.width-80[![](figures/kickoff/trump2.png)]
 
 ---
 
 class: middle, center, black-slide
 
-.width-100[![](figures/kickoff/growth.png)]
-
-???
-
-- 1 zettabyte = 1 trillion gigabytes
-- 1 followed by 21 zeroes
-
-"75 billion fully-loaded 16 GB Apple iPads, which would fill the entire area of Wembley Stadium to the brim 41 times, the Mont Blanc Tunnel 84 times, CERN's Large Hadron Collider tunnel 151 times, Beijing National Stadium 15.5 times or the Taipei 101 Tower 23 times."
-
-"A full-length episode of FOX TV's hit series 24 running continuously for 125 million years."
-
----
-
-class: middle, center
-
-.width-100[![](figures/kickoff/4v.jpg)]
-
----
-
-class: middle, black-slide
-
 .grid[
-.kol-1-2[.width-90[![](figures/kickoff/4th-paradigm.jpeg)]]
-.kol-1-2[
-.italic[
-<br>
-
-“Increasingly, scientific breakthroughs will
-be powered by advanced computing
-capabilities that help researchers
-manipulate and explore massive
-datasets.
-
-The speed at which any given scientific
-discipline advances will depend on how
-well its researchers *collaborate* with one
-another, and with technologists, in areas
-of eScience such as **databases**,
-**workflow management**, visualization,
-and **cloud computing technologies**.”
+.kol-2-3[.width-100[![](figures/kickoff/ca.jpg)]]
+.kol-1-3[.width-100[![](figures/kickoff/great-hack.jpg)]]
 ]
-]
-]
-
-???
-
-We came to the realization that...
-
----
-
-class: middle
-
-.italic["By 2018, the US could face a shortage of up to 190,000 workers with analytical skills."]
-<br>
-.pull-right[McKinsey Global Institute]
-
----
-
-class: middle
-
-
-.circle.center.width-40[![](figures/kickoff/halvarian.jpeg)]
-
-.italic["The ability to take **data** – to be able to
-*understand* it, to *process* it, to *extract
-value* from it, to *visualize* it, to
-*communicate* it's going to be a hugely
-important skill in the next decades, not
-only at the professional level but even at
-the educational level for elementary school
-kids, for high school kids, for college kids.
-Because now we really do have essentially
-free and ubiquitous data."]
-.pull-right[Hal Varian, Chief Economist, Google]
 
 ---
 
@@ -422,7 +399,7 @@ class: middle
 - Create your own template and always use the same for the intermediate review stages.
     - If you make incremental reports, make sure you highlight what is new.
     - If not, introduce a status of your past reports at the beginning.
-- Use a strict methodology: follow the steps of slide 19.
+- Use a strict methodology: follow the steps of slide 16.
     - briefly report what you did for each step.
     - provide approximate percentage of completion for each step.
 - Identify which group member is responsible for what.

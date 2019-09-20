@@ -12,7 +12,7 @@ Teaching assistant:
 
 ## Agenda
 
-Tentative schedule (subject to changes!)
+Tentative schedule.
 
 | Date | Topic |
 | --- | --- |
