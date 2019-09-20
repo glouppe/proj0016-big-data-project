@@ -5,17 +5,15 @@ class: middle, center, title-slide
 Kick-off
 
 <br><br>
-Profs. Gilles Louppe, Bertrand Cornélusse and Pierre Geurts
+Profs. Bertrand Cornélusse, Pierre Geurts and Gilles Louppe
 
 ---
 
 # Today
 
 - What is data science?
-- Methodology to solve a data science problem
-- Topics for this year
-- Course organization
-- Evaluation
+- Solving data science problems
+- Course and project organization
 
 ---
 
@@ -25,16 +23,13 @@ class: middle
 
 ---
 
-class: middle, center
+class: middle, center, black-slide
 
-Big data? Data science?
-
-.width-70[![](figures/kickoff/big-data-everywhere.jpg)]
+.width-90[![](figures/kickoff/big-data-everywhere.jpg)]
 
 ???
 
-- Who is in the master in data science?
-- Can you define big data or data science?
+Can you define big data or data science?
 
 ---
 
@@ -86,28 +81,6 @@ class: center, middle
 
 ---
 
-class: middle, center
-
-![](figures/kickoff/data-analysis-knowledge.png)
-
-???
-
-Also, from knowledge back to data.
-
----
-
-class: middle, center
-
-.width-50[![](figures/kickoff/galileo.gif)]
-
-.caption[Haven't we be doing data analysis forever?]
-
-???
-
-Yes! So, what's new?
-
----
-
 class: middle
 
 .circle.center.width-40[![](figures/kickoff/schmidt.jpeg)]
@@ -117,13 +90,13 @@ class: middle
 
 Let me repeat that: we create as much information in two days now as we did from the dawn of man through 2003.]
 
-.pull-right[Eric Schmidt, **2010**.]
+.pull-right[Eric Schmidt, 2010.]
 
 ---
 
 class: middle, center, black-slide
 
-.width-80[![](figures/kickoff/growth.png)]
+.width-100[![](figures/kickoff/growth.png)]
 
 ???
 
@@ -142,7 +115,7 @@ class: middle, center
 
 ---
 
-class: middle
+class: middle, black-slide
 
 .grid[
 .kol-1-2[.width-90[![](figures/kickoff/4th-paradigm.jpeg)]]
@@ -202,13 +175,17 @@ free and ubiquitous data."]
 
 class: middle
 
-# The data science pipeline
+# Solving data science problems
 
 ---
 
 class: middle
 
 .center.width-80[![](figures/kickoff/ds-pipeline.png)]
+
+???
+
+Make the connection with Hal Varian quoite.
 
 ---
 
@@ -306,62 +283,76 @@ class: middle
 
 ---
 
+# Past project examples
+
+<br>
+.center.width-80[![](figures/kickoff/french-open.png)]
+
+.center[.italic[Predicting the 2019 French Open's winner] (Louis, Crasset, Lamborelle)]
+
+---
+
 class: middle
 
-# Your project this year
+.center.width-80[![](figures/kickoff/warming.png)]
 
-(Pick one!)
-
----
-
-class: middle, center, italic
-
-Who will win the 2019 French Open?
-
----
-
-class: middle, center, italic
-
-Is global warming for real?
-
----
-
-class: middle, center, italic
-
-Is the University an example to follow in terms of electricity consumption?
+.center[.italic[Is global warming for real?] (Nicolas, Mathy, Ivanov)]
 
 ---
 
 class: middle
 
-# Organization
+# Your project this year
+
+---
+
+class: center, middle
+
+Proposals to be announced later! (around late October)
+
+(We want you to have followed tutorials first)
+
+---
+
+class: middle
+
+# Course and project organization
 
 ---
 
 # Instructors
 
-This project is mentored by:
-- Prof. Gilles Louppe ([g.louppe@uliege.be](mailto:g.louppe@uliege.be))
+The project is mentored by:
 - Prof. Bertrand Cornélusse ([bertrand.cornelusse@uliege.be](mailto:bertrand.cornelusse@uliege.be))
-- Prof. Pierre Geurts ([p.geurts@uliege.be](mailto:p.geurts@uliege.be))
-
-Each group will be assigned a mentor.
-Feel free to contact your **mentor** for any question.
+- Prof. Pierre Geurts ([p.geurts@uliege.be](mailto:p.geurts@uliege.be)) (Not this year!)
+- Prof. Gilles Louppe ([g.louppe@uliege.be](mailto:g.louppe@uliege.be))
+- Jonathan Dumas ([jdumas@uliege.be](mailto:jdumas@uliege.be))
 
 <br>
 .center[
-.circle[![](figures/kickoff/gilles.jpg)] &nbsp;
-.circle[![](figures/kickoff/bertrand.jpg)] &nbsp;
-.circle[![](figures/kickoff/pierre.jpg)]
+.circle.width-20[![](figures/kickoff/bertrand.jpg)] &nbsp;
+.circle.width-20[![](figures/kickoff/pierre.jpg)] &nbsp;
+.circle.width-20[![](figures/kickoff/gilles.jpg)] &nbsp;
+.circle.width-20[![](figures/kickoff/jonathan.jpg)]
 ]
 
 ---
 
-# Materials
+# Agenda and materials
 
-Slides and other materials are available at [github.com/glouppe/proj0016-big-data-project](https://github.com/glouppe/proj0016-big-data-project).
+The agenda and course materials can be found on the Github page of the course, at
+[github.com/glouppe/proj0016-big-data-project](https://github.com/glouppe/proj0016-big-data-project).
 
+<br>
 .center.width-80[![](figures/kickoff/github.png)]
+
+---
+
+# Seminars and tutorials
+
+The project is complemented by seminars and tutorials by local and external speakers.
+- Topics: big data, data science, visualization, communication, domain-specific presentations, etc.
+- Presence at the seminars and intermediate reviews is **mandatory**.
 
 ---
 
@@ -369,36 +360,26 @@ Slides and other materials are available at [github.com/glouppe/proj0016-big-dat
 
 The project is carried out in *groups of 3 students*.
 
-The topic should be selected and the groups should be formed by **October 8**.
-- Notify us by email.
-- If you are alone, send us an email too!
-- Register your group on the submission platform.
-
 ---
 
 # Reviews
 
 We will meet on *every last Monday of the month* to review your progress.
+
 - Oral presentation of your ongoing progress.
     - 10mn
     - Q&A
     - Everyone must present at least once
 - Short report
     - 4 pages max
-    - To be submitted on the Thursday before the review day, on the submission platform.
-    - **Check deadlines for report submission**.
+    - To be submitted on the Thursday before the review day.
+- The agenda for the reviews will be announced together with the project proposals.
+- The goal is to give you feedback on technical progress and project management.
 
-The goal is to give you feedback on technical progress and project management.
 
----
-
-# Seminars
-
-The project is complemented by seminars by local and external speakers.
-- Topics: big data, data science, visualization, communication, domain-specific presentations, etc.
-- Presence at the seminars and intermediate reviews is **mandatory**.
 
 ---
+
 
 # Final deliverables
 
@@ -408,33 +389,10 @@ The final deliverables of your project should consist in:
 
 ---
 
-# Agenda
-
-- 24/09/2018 (2PM) Kick-off
-- 24/09/2018 (4PM) Seminar: Written communication, Patricia Tossings
-- 08/10/2018 Groups must be formed and the topic decided
-- 29/10/2018 (2PM) Project review #1: Pre-analysis, literature review
-- 26/11/2018 (2PM) Project review #2: Data collection #1
-- 17/12/2018 (2PM) Project review #3: Data analysis #1
-- 25/02/2019 (9AM) Project review #4: Data collection #2
-- 25/03/2018 (9AM) Project review #5: Data analysis #2
-- 29/04/2018 (9AM) Project review #6: Further improvements.
-- 13/05/2018 (9AM) Project public defense and final report
-
-Seminars will be announced later.
-
----
-
-class: middle
-
-# Evaluation
-
----
-
 # Evaluation
 
 The evaluation will be based on:
-- the intermediate review meetings (progress achieved, quality of project management) (*6x 5%*)
+- the intermediate review meetings (progress achieved, quality of project management) (*30%*)
 - the quality of the final report (*15%*)
 - the quality of the final oral defense (*15%*)
 - the overall study (*40%*)
@@ -464,12 +422,11 @@ class: middle
 - Create your own template and always use the same for the intermediate review stages.
     - If you make incremental reports, make sure you highlight what is new.
     - If not, introduce a status of your past reports at the beginning.
-- Use a strict methodology: follow the steps of slide 18.
+- Use a strict methodology: follow the steps of slide 19.
     - briefly report what you did for each step.
     - provide approximate percentage of completion for each step.
 - Identify which group member is responsible for what.
 - For oral presentations, stick to the allocated time slot.
-- Use recommendations of seminars on communication skills
 
 ---
 
@@ -480,9 +437,7 @@ class: middle
 - Make small iterations first but try to go/project over all the steps.
 - Write what you do. It will help you being on time for your reports.
 - Share the work between group members and give precise responsibilities.
-- **Mandatory use of Github or alikes** and share with your mentor.
-- **Mandatory use of a Trello board** and share with your mentor.
-- If you want to use a cloud based service to store data, run computations, etc: fine, but please report pros and cons and what guided your choice.
+    - Make use of collaborative tools! (e.g., Github, Gitlab, Trello, etc)
 
 ---
 
