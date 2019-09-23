@@ -164,13 +164,7 @@ class: middle
 
 ???
 
-In practice, the data science process involves **several steps**:
-- Understanding and formalizing the problem
-- Collecting, cleaning and storing data
-- Defining a model and analyzing results
-- Analyzing the results
-- Storytelling and visualization
-- (tranversal) Choosing a technology
+Analogy with the scientific method.
 
 ---
 
