@@ -19,7 +19,7 @@ Tentative schedule.
 | September 23, 1:00 PM R75/B28 | MSc in Data Science: Welcome |
 | September 23, 1:45 PM R75/B28 | [Big data project kick-off](https://glouppe.github.io/proj0016-big-data-project/?p=kickoff.md) [[PDF](https://glouppe.github.io/proj0016-big-data-project/pdf/kickoff.pdf)] |
 | September 23, 3:45 PM 2.93/B28 | Seminar: Mastering your communication (part 1) |
-| September 30, 1:45 PM R75/B28 | Lecture: Handling data |
+| September 30, 1:45 PM R75/B28 | Lecture: [Handling data](https://docs.google.com/presentation/d/1nawRzAOMuCDVZx6dSXSSjMXXHfTpe2-vazIw4U_QoEY/edit?usp=sharing) |
 | October 7, 1:45 PM R75/B28 | Tutorial: Pandas, Numpy, Matplotlib (part 1) |
 | October 7, 3:45 PM 2.93/B28 | Seminar: Mastering your communication (part 2) |
 | October 14, 1:45 PM R75/B28 | Tutorial: Pandas, Numpy, Matplotlib (part 2) |
