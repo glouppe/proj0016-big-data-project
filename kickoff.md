@@ -131,6 +131,10 @@ class: center, middle
 .width-80[![](figures/kickoff/nate2.png)]
 .caption["Nate Silver won the election" - Harvard Business Review]
 
+???
+
+Mention visualization and communication skills.
+
 ---
 
 class: center, middle
@@ -362,8 +366,9 @@ We will meet on *every last Monday of the month* to review your progress.
 # Final deliverables
 
 The final deliverables of your project should consist in:
-- a final comprehensive report of your study
-- reproducible scripts for the collection, analysis and visualization of your data
+- a final comprehensive report of your study;
+- reproducible scripts for the collection, analysis and visualization of your data;
+- a defense of your project.
 
 ---
 
