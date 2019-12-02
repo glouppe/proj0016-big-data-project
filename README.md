@@ -26,6 +26,12 @@ Tentative schedule.
 | October 14, 4:00 PM R75/B28 | Seminar: Who will win the 2019 French Open? (Tom Crasset) |
 | October 21, 1:45 PM R75/B28 | Tutorial: Pandas, Numpy, Matplotlib (part 3) |
 | November 4, 1:45 PM R75/B28 | Announcement of the project topics |
+| December 2, 1:45 PM R75/B28 | Review 1 |
+| February 10, 9:00 AM 1.21/B28 | Review 2 |
+| March 2, 9:00 AM 1.21/B28 | Review 3 |
+| March 23, 9:00 AM 1.21/B28 | Review 4 |
+| April 20, 9:00 AM 1.21/B28 | Review 5 |
+| May 11, 9:00 AM 1.21/B28 | Review 6 (final) |
 | (TDB) | Lecture: Read the stats carefully |
 
 
